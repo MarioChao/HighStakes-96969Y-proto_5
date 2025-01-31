@@ -1,0 +1,8 @@
+# DS Store
+.DS_Store
+
+# Build files
+/bin
+/build
+compile_commands.json
+.vscode/extensions.json
